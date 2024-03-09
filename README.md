@@ -10,4 +10,4 @@ Welcome to my GitHub profile! I'm a B.Tech CSE student with a passion for becomi
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring new datasets and finding interesting insights, and I'm constantly amazed by the power of data in shaping our world.
 
-Feel free to explore my repositories, where you'll find projects related to data engineering, Python programming, and web development. Don't hesitate to reach out if you have any questions or if you'd like to collaborate on a project! 🚀
+Feel free to explore my repositories, where you'll find projects related to data engineering, Python programming. Don't hesitate to reach out if you have any questions or if you'd like to collaborate on a project! 🚀
